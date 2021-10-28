@@ -16,9 +16,9 @@
 
 `♅ pkg install bash`
 
-`♅ git clone https://github.com/Darken-Pasiya/Ravana-Store`
+`♅ git clone https://github.com/SL-RAVANA-OFFICIAL/RAVANA-STORE`
 
-`♅ cd Ravana-Store`
+`♅ cd RAVANA-STORE`
 
 `♅ chmod +x Ravana.sh`
 
